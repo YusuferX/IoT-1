@@ -1,3 +1,4 @@
+Nieminen Oy welcome !!
 #include <dht.h>
 
 dht DHT;
